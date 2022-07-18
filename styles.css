@@ -81,3 +81,25 @@
 .box-large{
     width: 45%;
 }
+
+.container-4{
+    border: 4px solid lightgray;
+    padding: 80px 24px 80px 24px;
+}
+
+.row-4{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-tiny{
+    width: 30%;
+}
+
+.tiny-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
