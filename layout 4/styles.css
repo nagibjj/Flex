@@ -4,7 +4,7 @@
 
 .container{
     border: 4px solid lightgray;
-    padding: 24px 24px 0 24px;
+    padding: 80px 24px 80px 24px;
 }
 
 .box{
@@ -41,7 +41,7 @@
 .row{
     width: 100%;
     max-width: 600px;
-    margin: 0 auto;
+    margin: 0 auto -24px auto;
     display: flex;
     justify-content: space-between;
 }
